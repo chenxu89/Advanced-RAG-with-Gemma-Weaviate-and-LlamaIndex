@@ -24,7 +24,7 @@
 
 ## 技术栈
 - 高级RAG技术，LlamaIndex，Weaviate，Gemma
-- 
+
 ##  数据集
 2023-kaggle-ai-report
 
